@@ -10,9 +10,6 @@ If Pass Grade
     70-79 C
     Else D
 """
-from numpy import average
-
-
 m1=int(input("Enter Mark-1 : "))
 m2=int(input("Enter Mark-2 : "))
 m3=int(input("Enter Mark-3 : "))
